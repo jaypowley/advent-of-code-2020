@@ -1,7 +1,3 @@
-# advent-of-code-2020
-My Advent of Code 2020 solutions
-
-
 # Advent of Code 2020
 
 Repository of my solutions to [Advent of Code 2020](https://adventofcode.com/2020)
@@ -21,11 +17,11 @@ Repository of my solutions to [Advent of Code 2020](https://adventofcode.com/202
 | Day 2  | [Day2.fsx](src/Day2.fsx) & [Day2_part2.fsx](src/Day2_part2.fsx) |
 | Day 3  | [Day3.fsx](src/Day3.fsx) & [Day3_part2.fsx](src/Day3_part2.fsx) |
 | Day 4  | [Day4.fsx](src/Day4.fsx) & [Day4_part2.fsx](src/Day4_part2.fsx) |
-| Day 5  | [Day4.fsx](src/Day5.fsx) & [Day4_part2.fsx](src/Day5_part2.fsx) |
-| Day 6  | [Day4.fsx](src/Day6.fsx) & [Day4_part2.fsx](src/Day6_part2.fsx) |
-| Day 7  | [Day4.fsx](src/Day7.fsx) & [Day4_part2.fsx](src/Day7_part2.fsx) |
-| Day 8  | [Day4.fsx](src/Day8.fsx) & [Day4_part2.fsx](src/Day8_part2.fsx) |
-| Day 9  | [Day4.fsx](src/Day9.fsx) & [Day4_part2.fsx](src/Day9_part2.fsx) |
+| Day 5  | [Day5.fsx](src/Day5.fsx) & [Day5_part2.fsx](src/Day5_part2.fsx) |
+| Day 6  | [Day6.fsx](src/Day6.fsx) & [Day6_part2.fsx](src/Day6_part2.fsx) |
+| Day 7  | [Day7.fsx](src/Day7.fsx) & [Day7_part2.fsx](src/Day7_part2.fsx) |
+| Day 8  | [Day8.fsx](src/Day8.fsx) & [Day8_part2.fsx](src/Day8_part2.fsx) |
+| Day 9  | [Day9.fsx](src/Day9.fsx) & [Day9_part2.fsx](src/Day9_part2.fsx) |
 | Day 10 | Coming soon |
 | Day 11 | Coming soon |
 | Day 12 | Coming soon |
